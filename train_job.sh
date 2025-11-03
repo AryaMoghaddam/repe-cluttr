@@ -1,6 +1,6 @@
 #!/bin/bash
 #SBATCH --job-name=repe_clutrr           # Job name
-#SBATCH --account=pgy-481                # Resource allocation project
+#SBATCH --account=def-sirisha            # Resource allocation project
 #SBATCH --time=03:00:00                  # Time limit (3 hours)
 #SBATCH --nodes=1                        # Number of nodes
 #SBATCH --ntasks=1                       # Number of tasks
